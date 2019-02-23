@@ -1,0 +1,4 @@
+git reset <file name> - Unstage a file
+git init - Create a repo
+git add . - Stage All
+git add <file name> - Stage a file
