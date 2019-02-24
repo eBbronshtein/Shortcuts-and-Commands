@@ -1,5 +1,5 @@
 git reset <file name> - Unstage a file
-git init - Create a repo
+git init - Create/init a repo
 git add . - Stage All
 git add <file name> - Stage a file
 git remote add origin <path to remote repo> - Add new remote repo
@@ -7,3 +7,13 @@ git push -u origin master - Push local repo(master) to the remote repo(origin)
 git push - Push current repo to the remote repo(origin)
 git pull - Pull remote repo(origin)(fetch and merge)
 git fetch - Download remote repo(origin) without updating local repo(master)
+git config --global alias.<alias> <command> - create an alias for a command
+git diff --staged - shows difference between working copy and staging area
+git diff --cashed - shows difference between working copy and casshed area
+git branch <branch name> - creates new branch
+git branch - shows current branch
+git branch -r - shows remote branches
+git branch -a - shows all branches
+git log --graph --decorate --oneline --abbrev-commit --all - show graphical log
+git checkout <branch name> - checkouts a branch
+git checkout -b <branch name> - creates new branch and checks it out
