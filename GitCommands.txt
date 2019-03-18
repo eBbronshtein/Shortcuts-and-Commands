@@ -19,3 +19,4 @@ git checkout <branch name> - checkouts a branch
 git checkout -b <branch name> - creates new branch and checks it out
 git push origin --delete <remote branch name> - Delete remote branch
 git branch -d <name of the branch> - Delete a branch
+git merge <branch name> - Merge <branch into current branch
