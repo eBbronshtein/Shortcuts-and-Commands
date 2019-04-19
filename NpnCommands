@@ -1,3 +1,5 @@
 npx create-react-app . - Create react application on a folder
 npm run build - Build react app
 npm start - run react app
+npm install react-router-dom - install npm router
+nmm install axios - install axios (fttp library)
