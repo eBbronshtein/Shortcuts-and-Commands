@@ -1,0 +1,36 @@
+sup                 - superscript text
+sub                 - subscript text
+br                  - linebrake
+hr                  - horizontal rule(separator)
+&nbsp;              - indent
+pre                 - preformatted text
+q                   - quotation marks
+blockquote          - quoted section
+del                 - deleted tect
+ins                 - inserted text
+dl                  - definition list
+dt                  - definition tag
+dd                  - definition description
+address             - formats text as address
+center              - centers block of text (not suppoted in HTML 5)
+abbr                - abbreviation 
+
+a                   - link
+a target="_blank"   - open link in a new page
+a href="#"          - jump to the top of the current page
+a href="#name"      - jump to the element "name"
+
+p title="xxx"       - shows tooltip 'xxx'
+
+img src="src" alt="alt" - show image from 'src' with alternate text 'alt'
+
+   
+<strong>text</strong>   - add extra importance to text
+<em>text</em>           - emphasize the text
+<mark>text</mark>       - highlight text
+<del>text</del>         - line through text
+<bdo dir="rtl">text</bdo> - text right to left
+<bdo dir="ltr">text</bdo> - text left to right
+<abbr title="abbr">text</abbr> - text is abbreviated by abbr
+
+cite="text"             - text is citetion

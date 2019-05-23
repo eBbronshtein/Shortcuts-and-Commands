@@ -1,0 +1,3 @@
+text-align: <value>;                - align the inner content of a block element
+font-size: <value>;                 - set font size to value
+background-color: <value>           - set bckground to value

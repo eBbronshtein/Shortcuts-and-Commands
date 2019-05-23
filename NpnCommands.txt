@@ -1,0 +1,31 @@
+npx create-react-app . - Create react application on a folder
+npm run build - Build react app
+npm start - run react app
+npm install react-router-dom - install npm router
+npm install axios - install axios (fttp library)
+npm install -g @angular/cli - install angular
+npm install -D nodemon - install nodemon server
+npm run dev - start app in dev mode (will run dev script)
+
+ng new <project name> - create angular project
+ng serve --open - start and open angular server
+ng generate component <name> - generate angular component
+
+// react
+npm i -g create-react-app@1.5.2 - Install react app creator
+create-react-app <name-app> - creates react application
+npm start - will run <name-app> react application
+npm install bootstrap@4.1.1 - install bootstrap
+
+// python
+pip install pipenv -- install python environment
+pipenv shell -- creates virtual environment for the project
+pipenv install django djangorestframework django-rest-knox - ?
+django-admin startproject leadmanager - create django project
+python manage.py startapp leads -- ?
+
+
+// typescript
+npm install -g typescript@latest - install latest version of typescript
+tsc <file name> - compile typescript into js
+tsc <file name> -w - compile typescript into js in watch mode(compiles after every update)

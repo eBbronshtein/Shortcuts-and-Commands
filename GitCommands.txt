@@ -1,4 +1,5 @@
 git reset <file name> - Unstage a file
+git reset - unstage all
 git init - Create/init a repo
 git add . - Stage All
 git add <file name> - Stage a file
@@ -15,9 +16,9 @@ git branch - shows current branch
 git branch -r - shows remote branches
 git branch -a - shows all branches
 git log --graph --decorate --oneline --abbrev-commit --all - show graphical log
-git checkout <branch name> - checkouts a branch
+git checkout <branch name> - checkouts a branchgit 
 git checkout -b <branch name> - creates new branch and checks it out
 git push origin --delete <remote branch name> - Delete remote branch
 git branch -d <name of the branch> - Delete a branch
 git merge <branch name> - Merge <branch into current branch
-git commit --amend - Amends commit message
+git commit --amend -m "Message" - Amends latest commit 
