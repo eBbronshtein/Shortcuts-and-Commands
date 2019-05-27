@@ -34,3 +34,35 @@ img src="src" alt="alt" - show image from 'src' with alternate text 'alt'
 <abbr title="abbr">text</abbr> - text is abbreviated by abbr
 
 cite="text"             - text is citetion
+
+<caption>Text</caption>   - display table caption
+<th colspan="x">text</th> - table header will span x columns
+<tr rowspan="x">text</tr> - table element will span x rows
+
+<ol type="A" ...          - display letters (uppercase ABC) instead of numbers in ordered list
+<ol type="I" ...          - display letters (uppercase roman) instead of numbers in ordered list
+
+dl                        - description list
+dt                        - description term
+dd                        - decription
+
+iframe - An inline frame is used to embed another document within the current HTML document
+
+<code> js </code>
+<var> x </var>
+
+<form action="..."        - address to which form will be submitted
+<input type="submit">     - submit button on form
+<form method="..."        - form submition methods
+<select ...>              - drop-down in a form
+  <option value="v1">v1</option>
+  <option value="v2">v2</option>
+</select>
+
+<textarea name="name">text</textarea>  - text area in form
+<input value="value" type="radio" name="name">  - radio button in form
+
+<input type="number"> - numeric input in a form
+<input type="text" disabled> - disabled input
+<input type="text" readonly> - readonly input
+
