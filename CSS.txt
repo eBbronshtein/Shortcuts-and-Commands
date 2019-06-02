@@ -4,3 +4,5 @@ background-color: <value>           - set bckground to value
 text-decoration:none                - remove underline(decoration) from text
 float:right                         - float to the right of the eclosing container
 list-style-type:square              - display squares instead of bullets in list items
+style.display = 'none'              - hide element
+style.display = 'block'             - show element
