@@ -22,3 +22,4 @@ git push origin --delete <remote branch name> - Delete remote branch
 git branch -d <name of the branch> - Delete a branch
 git merge <branch name> - Merge <branch into current branch
 git commit --amend -m "Message" - Amends latest commit 
+git push --set <remote branch name> (sets current branch to track <remote branch name>)
