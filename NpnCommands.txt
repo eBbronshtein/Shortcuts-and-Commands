@@ -32,3 +32,6 @@ tsc <file name> -w - compile typescript into js in watch mode(compiles after eve
 
 // install sass package
 npm add node-sass
+
+// update packages in an existing project
+npm update -D 
