@@ -29,3 +29,6 @@ python manage.py startapp leads -- ?
 npm install -g typescript@latest - install latest version of typescript
 tsc <file name> - compile typescript into js
 tsc <file name> -w - compile typescript into js in watch mode(compiles after every update)
+
+// install sass package
+npm add node-sass
