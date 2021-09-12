@@ -35,3 +35,6 @@ npm add node-sass
 
 // update packages in an existing project
 npm update -D 
+
+// fix dependencies
+npm audit fix
