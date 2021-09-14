@@ -23,3 +23,9 @@ git branch -d <name of the branch> - Delete a branch
 git merge <branch name> - Merge <branch into current branch
 git commit --amend -m "Message" - Amends latest commit 
 git push --set <remote branch name> (sets current branch to track <remote branch name>)
+
+
+// Creating remote branch
+git checkout <source branch name> -- check out local branch from which we need to branch
+git branch <new branch name> -- create new branch
+git push --set-upstream origin <new branch name> -- create new branch on remote (origin is the root folder for source branch on remote)
